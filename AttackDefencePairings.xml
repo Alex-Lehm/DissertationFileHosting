@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pairings>
+	<pair>
+		<attack>Unauthorised System Access</attack>
+		<defence>Passwords</defence>
+		<defence>Access Levels</defence>
+	</pair>
+	<pair>
+		<attack>Data Eavesdropping (Network Vulnerability)</attack>
+		<defence>Encryption</defence>
+	</pair>
+	<pair>
+		<attack>Malware</attack>
+		<defence>Anti-Malware</defence>
+	</pair>
+	<pair>
+		<attack>Outdated software</attack>
+		<defence>(Automatic) Software Updates</defence>
+	</pair>
+	<pair>
+		<attack>Undetected Vulnerabilities</attack>
+		<defence>Penetration Testing</defence>
+		<defence>Ethical Hacking</defence>
+	</pair>
+	<pair>
+		<attack>Social Engineering (Phishing, pharming...)</attack>
+		<defence>Awareness training</defence>
+		<defence>Personal Vigilance</defence>
+	</pair>
+</pairings>
