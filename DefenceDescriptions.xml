@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defence-descriptions>
+	<defence-desc>
+		<defence>Passwords</defence>
+		<desc>Passwords allow you to protect access to an account, as long as it isn't shared!</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Access Levels</defence>
+		<desc>These prevent everyone in an organisation or group having access to things they don't need - only what they should have or need have access to.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Encryption</defence>
+		<desc>Protecting visibility of information by scrambling the data with a key. Only someone with another valid key can decrypt and see the data.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Anti-Malware</defence>
+		<desc>Provides protection against many types of dangerous, malicious software.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>(Automatic) Software Updates</defence>
+		<desc>Old software versions can contain dangerous bugs once discovered. Updating to recent versions keeps security up-to-date!</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Penetration Testing</defence>
+		<desc>Organisations will hire people to attack a system, learning about new and unknown risks to security.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Ethical Hacking</defence>
+		<desc>Similar to Pen. Testing, 'ethical hackers' are hired to play the part of an attacker to learn about security risks in a system.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Awareness Training</defence>
+		<desc>Certain attack types involve people as the weak-point, such as fake emails which look genuine. Awareness is key to stopping these attacks.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Personal Vigilance</defence>
+		<desc>Similar to Awareness Training, staying aware at all times of links being clicked, data you provide, and emails being received is key to protecting personal information.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Multi-Factor Authentication</defence>
+		<desc>Extra layers of security to protect system access, often alongside a password. For example, verification codes to a trusted email or phone number.</desc>
+	</defence-desc>
+	<defence-desc>
+		<defence>Strong Passwords</defence>
+		<desc>Sometimes, passwords can be guessed by force! Strong passwords help to prevent this.</desc>
+	</defence-desc>
+</defence-descriptions>
