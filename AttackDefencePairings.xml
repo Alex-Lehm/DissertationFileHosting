@@ -4,6 +4,7 @@
 		<attack>Unauthorised System Access</attack>
 		<defence>Passwords</defence>
 		<defence>Access Levels</defence>
+		<defence>Multi-Factor Authentication</defence>
 	</pair>
 	<pair>
 		<attack>Data Eavesdropping (Network Vulnerability)</attack>
