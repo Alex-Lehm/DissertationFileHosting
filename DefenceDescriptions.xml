@@ -17,7 +17,7 @@
 		<desc>Provides protection against many types of dangerous, malicious software.</desc>
 	</defence-desc>
 	<defence-desc>
-		<defence>(Automatic) Software Updates</defence>
+		<defence>Software Updates</defence>
 		<desc>Old software versions can contain dangerous bugs once discovered. Updating to recent versions keeps security up-to-date!</desc>
 	</defence-desc>
 	<defence-desc>
