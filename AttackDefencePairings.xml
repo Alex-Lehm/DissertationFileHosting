@@ -27,4 +27,9 @@
 		<defence>Awareness Training</defence>
 		<defence>Personal Vigilance</defence>
 	</pair>
+	<pair>
+		<attack>Brute-Forced Credentials</attack>
+		<defence>Multi-Factor Authentication</defence>
+		<defence>Strong Passwords</defence>
+	</pair>
 </pairings>
